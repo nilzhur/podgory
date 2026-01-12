@@ -1,2 +1,2 @@
 # podgory
-podgory_ftp
+podgory_https
